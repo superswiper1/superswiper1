@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryce Ferguson, B.A. International Relations 
 - 👀 I’m interested in Machine & deep learning methods for data science
-- 🌱 I’m currently completing my Associate Data Scientist Certificate through DataCamp
+- 🌱 I’m currently completing my Data Scientist Certificate through DataCamp
 - 💞️ I’m looking to collaborate on deep learning projects that focus on YOLO architecture for real time prediction & classification 
 - 📫 How to reach me: bryceferguson567@gmail.com
 - 😄 Pronouns: he/him/his
